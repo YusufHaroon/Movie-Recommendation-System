@@ -1,7 +1,7 @@
 ## Movie Recommendation System
 This ML project implements a Content-Based Movie Recommendation System using dataset from Kaggle. It allows users to search for a movie and returns 9 similar movies based on their content features.
 
-#### 📁 Datasets Used
+#### Datasets Used
 tmdb_5000_movies.csv
 
 tmdb_5000_credits.csv
