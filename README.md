@@ -22,7 +22,7 @@ Text normalization techniques (e.g., lowercasing, stemming, and removal of stop 
 
 The tags column serves as the basis for generating movie recommendations.
 
-### 🧠 2. Vectorization
+### 2. Vectorization
 Bag of Words (BoW) technique is used for feature extraction from text.
 
 The tags column is tokenized, and the most frequent words are selected to create a vocabulary.
