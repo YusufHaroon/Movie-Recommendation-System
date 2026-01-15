@@ -11,7 +11,7 @@ Both datasets are sourced from [The Movie Database (TMDB)] and contain informati
 ## How It Works
 This system uses content-based filtering — it recommends movies based on the similarity of movie features rather than user ratings or behaviors.
 
-### 🛠️ 1. Data Preprocessing
+### 1. Data Preprocessing
 The two datasets are merged using a common identifier (e.g., movie title or ID).
 
 Unnecessary or redundant columns are dropped to clean the dataset.
