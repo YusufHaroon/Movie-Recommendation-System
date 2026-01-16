@@ -33,7 +33,7 @@ Stop words (e.g., "and", "the", "of") are removed to retain only meaningful cont
 
 Scikit-learn’s CountVectorizer is used for efficient text vectorization.
 
-### 📐 3. Similarity Calculation
+### 3. Similarity Calculation
 Cosine similarity is used to compute the distance between movie vectors.
 
 Cosine similarity measures the angle between vectors, making it effective for high-dimensional, sparse data such as text.
