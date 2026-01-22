@@ -6,7 +6,7 @@ tmdb_5000_movies.csv
 
 tmdb_5000_credits.csv
 
-Both datasets are sourced from [The Movie Database (TMDB)] and contain information on over 5,000 movies including their cast, crew, genres, and keywords. 
+Both datasets are sourced [The Movie Database (TMDB)] and contain information on over 5,000 movies including their cast, crew, genres, and keywords. 
 
 ## How It Works
 This system uses content-based filtering — it recommends movies based on the similarity of movie features rather than user ratings or behaviors.
