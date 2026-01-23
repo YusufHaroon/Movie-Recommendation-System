@@ -40,7 +40,7 @@ Cosine similarity measures the angle between vectors, making it effective for hi
 
 For any given movie input, the 9 most similar movies (based on cosine distance) are returned as recommendations.
 
-### 💡 Example Use Case
+### Example Use Case
 You search for:
 
 🎥 "Batman Begins"
