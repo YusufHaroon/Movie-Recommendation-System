@@ -43,7 +43,7 @@ For any given movie input, the 9 most similar movies (based on cosine distance) 
 ### Example Use Case
 You search for:
 
-🎥 "Batman Begins"
+"Batman Begins"
 
 And get recommendations such as:
 
