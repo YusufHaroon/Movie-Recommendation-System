@@ -49,7 +49,7 @@ And get recommendations such as:
 
 The Dark Knight, Batman, The Dark Knight Rises, Batman v Superman: Dawn of Justice
 
-### 📦 Libraries Used
+### Libraries Used
 pandas – Data manipulation
 
 numpy – Numerical computations
